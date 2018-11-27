@@ -17,7 +17,7 @@ class Solution(object):
         :type target: int
         :rtype: List[int]
         """
-		# If the length of nums is equal to or less than 1, there is no pair for return		
+	# If the length of nums is equal to or less than 1, there is no pair for return		
         if len(nums)<=1:
             return false
 		 
